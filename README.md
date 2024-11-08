@@ -1,4 +1,4 @@
-#Calculadora con Interfaz Gráfica
+## Calculadora con Interfaz Gráfica
 
 Este proyecto es una **calculadora** con interfaz gráfica, creada usando **NetBeans**. Fue desarrollada como parte de una tarea para la materia de sistemas de informacion y entregada el **viernes 08/11/24**. El código es libre de uso y está disponible para cualquier persona que quiera aprender o modificarlo.
 
