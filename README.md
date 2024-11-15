@@ -5,7 +5,7 @@ Este proyecto es una **calculadora** con interfaz gráfica, creada usando **NetB
 ## Características
 
 - Interfaz gráfica sencilla y fácil de usar.
-- Funciones básicas de cálculo (suma, resta, multiplicación, división).
+- Funciones básicas de cálculo (suma, resta, multiplicación, división, raiz y exponencial).
 
 ## Requisitos
 
